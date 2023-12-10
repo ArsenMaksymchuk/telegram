@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    border:5px solid rgb(0, 119, 255);
+    padding:3px;
+    border-radius:3px;
+
+}
+P {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.mex {
+    color: rgb(4, 0, 252);
+}
+.max {
+    text-align: center;
+}
+.myx{
+    color: rgb(228, 13, 13);
+}
+.mux {
+    color: blueviolet;
+}
+body {
+    background-color: rgb(87, 142, 204);
+}
